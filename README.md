@@ -16,4 +16,4 @@ Launch your Jupyter environment:
 Bash
 jupyter notebook
 
-Open and run the simulation notebook.
+Open and run the simulation notebook of "DLA_CA_Pattisina_v4_NC_submission.ipynb".
