@@ -1,7 +1,7 @@
 # DLA-SD Simulation Code
-The Jupyter python code for the simulation of growth of stromatolite via Diffusion Limited Aggregation couple with Surface Diffusion
+The Jupyter python code for the simulation of growth of stromatolite via Diffusion Limited Aggregation coupled with Surface Diffusion
 
-Run in Jupyternotebook with python 3.7 and some necessary package of numpy, matplotlib, copy and tqdm.
+Pls run the python code in Jupyternotebook with python 3.7 and some necessary package of numpy, matplotlib, copy and tqdm. Install and run the code in following steps:
 
 Bash
 pip install numpy matplotlib tqdm
